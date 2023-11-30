@@ -1,0 +1,1 @@
+ '.\ESXi-Customizer-PS.ps1 -pkgDir ".\outputs" -vft -load cpu-microcode,net55-r8168,net51-r8169,net51-sky2,net-r8101,net-r8139too -v67'
